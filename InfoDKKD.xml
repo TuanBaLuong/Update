@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+   <Project>
+    <AppCode>BusinessRegistration</AppCode>
+    <AppName>Phần Mềm Thành Lập Doanh Nghiệp</AppName>
+    <Version>1.0.0.0</Version>
+    <Description> 
+		-Test Tý Thôi
+</Description>
+    <Link>https://quanlyhoadon.com.vn/Tool/DangKyKinhDoanh/UPDATE/BusinessRegistration.zip</Link>
+  </Project>
+ </Root>
