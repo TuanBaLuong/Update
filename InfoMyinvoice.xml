@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Root>
    <Project>
-    <AppCode>ConvertCustomer</AppCode>
-    <AppName>Phần mềm chuyển đổi Misa</AppName>
+    <AppCode>MyInvoice</AppCode>
+    <AppName>Phần mềm quản lý hóa đơn</AppName>
     <Version>1.0.0.0</Version>
     <Description> 
 		-Test Tý Thôi
