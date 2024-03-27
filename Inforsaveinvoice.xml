@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Root>
    <Project>
-    <AppCode>MyInvoice</AppCode>
+    <AppCode>Saveinvoicestarter</AppCode>
     <AppName>Phần mềm quản lý hóa đơn</AppName>
     <Version>1.0.0.0</Version>
     <Description> 
