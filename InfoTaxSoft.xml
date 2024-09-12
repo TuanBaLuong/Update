@@ -3,11 +3,10 @@
    <Project>
     <AppCode>TaxSoft</AppCode>
     <AppName>Phần mềm tải xử lý hoá đơn điện tử</AppName>
-    <Version>1.0.0.0</Version>
+    <Version>1.0.0.1</Version>
     <Description> 
-		Viết chơi chơi thôi	
-	        Test Thử TaxSoft update từ host bá đạo
+		Cập nhật ứng dụng
     </Description>
-    <Link>https://mega.nz/file/VGsmRKxb#Jon5aRT6nEsl-vDVDyyw547BYA56lIAtmAPI8n-rAzQ</Link>
+    <Link>https://quanlyhoadon.com.vn/Tool/TaxSoft/Update/TaxSoft.zip</Link>
   </Project>
  </Root>
