@@ -3,10 +3,10 @@
    <Project>
     <AppCode>TaxSoft</AppCode>
     <AppName>Phần mềm tải xử lý hoá đơn điện tử</AppName>
-    <Version>1.0.0.2/Version>
+    <Version>1.0.0.2</Version>
     <Description> 
-	 -Cập nhật auto captcha
-    </Description>
+		-Auto captcha
+</Description>
     <Link>https://quanlyhoadon.com.vn/Tool/TaxSoft/Update/TaxSoft.zip</Link>
   </Project>
  </Root>
