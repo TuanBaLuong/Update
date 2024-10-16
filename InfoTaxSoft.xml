@@ -3,9 +3,10 @@
    <Project>
     <AppCode>TaxSoft</AppCode>
     <AppName>Phần mềm tải xử lý hoá đơn điện tử</AppName>
-    <Version>1.0.0.1</Version>
+    <Version>1.0.0.2/Version>
     <Description> 
-		Cập nhật ứng dụng
+	 Tự động giải captcha: Tham số > Giải capcha tích chọn là xong
+	 Ấp đồng bộ ngay tự động tải file
     </Description>
     <Link>https://quanlyhoadon.com.vn/Tool/TaxSoft/Update/TaxSoft.zip</Link>
   </Project>
