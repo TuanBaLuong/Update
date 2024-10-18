@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Root>
    <Project>
-    <AppCode>Saveinvoicestarter</AppCode>
-    <AppName>Phần mềm quản lý hóa đơn</AppName>
-    <Version>1.0.0.0</Version>
+    <AppCode>SaveXML</AppCode>
+    <AppName>Phần mềm tải hóa đơn - Tờ Khai</AppName>
+    <Version>1.0.0.1</Version>
     <Description> 
-		-Test Tý Thôi
+	-update captcha không phải giải với hóa đơn
+	-Tờ khai chỉ cần ấn nạp là tự động tải
 </Description>
-    <Link></Link>
+    <Link>https://quanlyhoadon.com.vn/Tool/SaveXML/Update/SaveXML.zip</Link>
   </Project>
  </Root>
