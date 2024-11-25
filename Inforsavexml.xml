@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+   <Project>
+    <AppCode>SaveXML</AppCode>
+    <AppName>Phần mềm tải hóa đơn - Tờ Khai</AppName>
+    <Version>1.0.0.1</Version>
+    <Description> 
+	-update captcha không phải giải với hóa đơn
+	-Tờ khai chỉ cần ấn nạp là tự động tải
+</Description>
+    <Link></Link>
+  </Project>
+ </Root>
