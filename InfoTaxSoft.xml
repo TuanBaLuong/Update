@@ -3,9 +3,10 @@
    <Project>
     <AppCode>TaxSoft</AppCode>
     <AppName>Phần mềm tải xử lý hoá đơn điện tử</AppName>
-    <Version>1.0.0.5</Version>
+    <Version>1.0.0.8</Version>
     <Description> 
 		-Auto captcha
+	    -Fix lỗi ký tự có khoảng trắng không nhận gộp
 </Description>
     <Link>https://quanlyhoadon.com.vn/Tool/TaxSoft/Update/TaxSoft.zip</Link>
   </Project>
