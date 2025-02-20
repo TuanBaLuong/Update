@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+   <Project>
+    <AppCode>Rename</AppCode>
+    <AppName>Đổi File hàng loạt word và excel</AppName>
+    <Version>1.0.0.1</Version>
+    <Description> 
+		-Test Tý Thôi
+</Description>
+    <Link></Link>
+  </Project>
+ </Root>
