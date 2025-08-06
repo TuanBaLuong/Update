@@ -7,6 +7,7 @@
     <Description> 
 	-update captcha không phải giải với hóa đơn
 	-Tờ khai chỉ cần ấn nạp là tự động tải
+        -Fix Lỗi các hóa đơn của máy tính tiền
 </Description>
     <Link></Link>
   </Project>
