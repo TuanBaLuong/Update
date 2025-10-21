@@ -5,10 +5,7 @@
     <AppName>Phần mềm tải hóa đơn - Tờ Khai</AppName>
     <Version>1.0.0.2</Version>
     <Description> 
-	    -update captcha không phải giải với hóa đơn
-	    -Tờ khai chỉ cần ấn nạp là tự động tải
-        -Fix Lỗi các hóa đơn của máy tính tiền
-		-Fix lỗi tờ khai không khớp với xml
+	   Fix lỗi khi in PDF không khớp A4
 </Description>
     <Link>https://quanlyhoadon.com.vn/Tool/SaveXML/Update/SaveXML.zip</Link>
   </Project>
