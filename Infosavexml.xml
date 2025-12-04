@@ -3,9 +3,10 @@
    <Project>
     <AppCode>SaveXML</AppCode>
     <AppName>Phần mềm tải hóa đơn - Tờ Khai</AppName>
-    <Version>1.0.0.2</Version>
+    <Version>1.0.0.3</Version>
     <Description> 
 	   Fix lỗi khi in PDF không khớp A4
+	   Fix Lỗi Tải Tờ Khai XML
 </Description>
     <Link>https://quanlyhoadon.com.vn/Tool/SaveXML/Update/SaveXML.zip</Link>
   </Project>
