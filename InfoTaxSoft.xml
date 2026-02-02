@@ -3,7 +3,7 @@
    <Project>
     <AppCode>TaxSoft</AppCode>
     <AppName>Phần mềm tải xử lý hoá đơn điện tử</AppName>
-    <Version>1.0.0.9</Version>
+    <Version>1.0.1.1</Version>
     <Description> 
 		-Auto captcha
 	    -Fix Lỗi load từ máy tính tiền
