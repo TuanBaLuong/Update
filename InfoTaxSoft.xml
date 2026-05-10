@@ -3,11 +3,9 @@
    <Project>
     <AppCode>TaxSoft</AppCode>
     <AppName>Phần mềm tải xử lý hoá đơn điện tử</AppName>
-    <Version>1.0.1.1</Version>
+    <Version>1.0.1.2</Version>
     <Description> 
-		-Auto captcha
-	    -Fix Lỗi load từ máy tính tiền
-		-Fix lỗi gộp mã không nhận yêu cầu đúng ký tự
+		cập nhật lỗi khi nâng cấp ngay 09/05 hoadon
 </Description>
     <Link>https://quanlyhoadon.com.vn/Tool/TaxSoft/Update/TaxSoft.zip</Link>
   </Project>
