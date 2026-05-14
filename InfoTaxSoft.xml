@@ -3,9 +3,9 @@
    <Project>
     <AppCode>TaxSoft</AppCode>
     <AppName>Phần mềm tải xử lý hoá đơn điện tử</AppName>
-    <Version>1.0.1.2</Version>
+    <Version>1.0.1.3</Version>
     <Description> 
-		cập nhật lỗi khi nâng cấp ngay 09/05 hoadon
+		Thêm phần check hóa đơn mua vào cùng mst và cùng ngày
 </Description>
     <Link>https://quanlyhoadon.com.vn/Tool/TaxSoft/Update/TaxSoft.zip</Link>
   </Project>
