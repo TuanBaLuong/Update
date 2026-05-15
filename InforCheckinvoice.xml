@@ -2,8 +2,8 @@
 <Root>
    <Project>
     <AppCode>CheckInvoice</AppCode>
-    <AppName>Phần mềm chuyển đổi Misa</AppName>
-    <Version>1.0.0.0</Version>
+    <AppName>Phần mềm lấy dữ liệu mst</AppName>
+    <Version>1.0.0.1</Version>
     <Description> 
 		-Test Tý Thôi
 </Description>
