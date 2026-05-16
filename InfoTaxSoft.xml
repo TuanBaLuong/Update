@@ -3,9 +3,10 @@
    <Project>
     <AppCode>TaxSoft</AppCode>
     <AppName>Phần mềm tải xử lý hoá đơn điện tử</AppName>
-    <Version>1.0.1.3</Version>
+    <Version>1.0.1.4</Version>
     <Description> 
 		Thêm phần check hóa đơn mua vào cùng mst và cùng ngày
+		thêm phần chuyển khách hàng để không phải import 2 lần
 </Description>
     <Link>https://quanlyhoadon.com.vn/Tool/TaxSoft/Update/TaxSoft.zip</Link>
   </Project>
