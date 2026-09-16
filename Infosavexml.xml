@@ -3,9 +3,9 @@
    <Project>
     <AppCode>SaveXML</AppCode>
     <AppName>Phần mềm tải hóa đơn - Tờ Khai</AppName>
-    <Version>1.0.0.5</Version>
+    <Version>1.0.0.6</Version>
     <Description> 
-	   Cập nhật lỗi ngày 09/05 thuế nâng cấp
+	   Cập nhật lỗi ngày 16/09 thuế nâng cấp
 </Description>
     <Link>https://quanlyhoadon.com.vn/Tool/SaveXML/Update/SaveXML.zip</Link>
   </Project>
