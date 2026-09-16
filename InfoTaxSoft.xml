@@ -3,10 +3,9 @@
    <Project>
     <AppCode>TaxSoft</AppCode>
     <AppName>Phần mềm tải xử lý hoá đơn điện tử</AppName>
-    <Version>1.0.1.4</Version>
+    <Version>1.0.1.8</Version>
     <Description> 
-		Thêm phần check hóa đơn mua vào cùng mst và cùng ngày
-		thêm phần chuyển khách hàng để không phải import 2 lần
+		Fix lỗi hoá đơn này 15/09/2026
 </Description>
     <Link>https://quanlyhoadon.com.vn/Tool/TaxSoft/Update/TaxSoft.zip</Link>
   </Project>
