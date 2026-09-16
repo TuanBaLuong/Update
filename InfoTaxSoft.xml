@@ -3,7 +3,7 @@
    <Project>
     <AppCode>TaxSoft</AppCode>
     <AppName>Phần mềm tải xử lý hoá đơn điện tử</AppName>
-    <Version>1.0.1.8</Version>
+    <Version>1.0.1.4</Version>
     <Description> 
 		Fix lỗi hoá đơn này 15/09/2026
 </Description>
