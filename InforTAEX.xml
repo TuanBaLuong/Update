@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Root>
    <Project>
-    <AppCode>TAEX</AppCode>
+    <AppCode>TEX</AppCode>
     <AppName>Addins cho excel</AppName>
     <Version>1.0.0.1</Version>
     <Description> 
