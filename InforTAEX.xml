@@ -3,7 +3,7 @@
    <Project>
     <AppCode>TEX</AppCode>
     <AppName>Addins cho excel</AppName>
-    <Version>1.0.0.1</Version>
+    <Version>1.0.0.0</Version>
     <Description> 
 		-Cập nhật phiên bản TAEX nhập liệu nhanh thuận tiện hơn
 </Description>
