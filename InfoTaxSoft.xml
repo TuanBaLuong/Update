@@ -3,9 +3,9 @@
    <Project>
     <AppCode>TaxSoft</AppCode>
     <AppName>Phần mềm tải xử lý hoá đơn điện tử</AppName>
-    <Version>1.0.1.9</Version>
+    <Version>1.0.2.1</Version>
     <Description> 
-		Fix lỗi hoá đơn này 15/09/2026
+		Fix lỗi tải hoá đơn máy tính tiền 25/10/2025 (lưu ý cho tải 10 ngày)
 </Description>
     <Link>https://quanlyhoadon.com.vn/Tool/TaxSoft/Update/TaxSoft.zip</Link>
   </Project>
